@@ -12,4 +12,4 @@ Application de gestion de produits full-stack avec MongoDB, Express et frontend 
 -  Messages d'alerte en temps réel
 -  Design responsive
 
-##  Architecture
+
